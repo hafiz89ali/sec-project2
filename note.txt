@@ -1,0 +1,13 @@
+index.js
+#index > express *connect to network
+#index > middleware *read json
+#index > routes
+
+database > connection.js
+
+controller > health.js : getHealth, postHealth
+controller > auth.js : register, login
+
+routes > router.js
+- get - healthController
+- post - healthController
